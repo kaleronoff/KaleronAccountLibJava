@@ -1,0 +1,19 @@
+plugins {
+    id "java-library"
+}
+
+group = "io.github.kaleronoff"
+version = "1.0.0"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.json:json:20250107"
+    implementation "com.squareup.okhttp3:okhttp:4.12.0"
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+}
