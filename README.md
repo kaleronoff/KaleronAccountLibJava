@@ -1,4 +1,4 @@
-# <img src="https://krio.fr.nf/static/Assets/Kaleron/LogoDark.png" alt="Kaleron Logo" width="30" height="30"> KaleronAccountLibJava [![GitHub license](https://img.shields.io/badge/license-NPL-red.svg)](LICENSE)
+# <img src="https://krio.fr.nf/static/Assets/Kaleron/LogoDark.png" alt="Kaleron Logo" width="30" height="30"> KaleronAccountLibJava [![GitHub license](https://img.shields.io/badge/license-NPL-red.svg)](LICENSE) [![](https://jitpack.io/v/kaleronoff/KaleronAccountLibJava.svg)](https://jitpack.io/#kaleronoff/KaleronAccountLibJava)
 
 **KaleronAccountLibJava is a Java library designed to interact with the Kaleron Account Link API. It provides a simple and powerful way to perform various account-related actions such as retrieving email, sending comments, reading comments, liking/disliking videos, and more.**
 
